@@ -2,7 +2,7 @@
 
 ### About me!
 ___
-* Software Engineer trained by App Academy in using Javascript, Ruby, SQL, and the MERN Stack--to name a few! Experience with over 100 hours of paired programming and team collaboration.
+* Software Engineer trained by App Academy in using Javascript, Ruby, SQL, and the MERN Stack--to name a few! Experience with over 1000 hours of paired programming and team collaboration.
 
 * Led a near-decade long career in Blacksmithing, moving from a traditional apprenticeship to a modern metal fabrication shop and completed dozens of high-end projects with multiple teams of craftsmen.
 
