@@ -1,6 +1,7 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Hello There GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZyaXZnNWhobGY1ZDZqeW15Nmw3ZWwzYXhld2EzZGVqcTFqZTJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif)
-
-### About me!
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZyaXZnNWhobGY1ZDZqeW15Nmw3ZWwzYXhld2EzZGVqcTFqZTJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif">
+</div>
+<h1 align="center">About me!</h1>
 ___
 * Software Engineer trained by App Academy in using Javascript, Ruby, SQL, and the MERN Stack--to name a few! Experience with over 1000 hours of paired programming and team collaboration.
 
