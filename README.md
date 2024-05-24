@@ -3,11 +3,13 @@
 </div>
 <h1>About me!</h1>
 
-* Software Engineer trained by App Academy in using Javascript, Ruby, SQL, and the MERN Stack--to name a few! Experience with over 1000 hours of paired programming and team collaboration.
+* Current Software Developer in a backend role at Regulatory Solutions Inc., a company that strives to produce accurate and defensible FCC reports with advanced software, terrain, and clutter data to address FCC challenges. 
 
-* Led a near-decade long career in Blacksmithing, moving from a traditional apprenticeship to a modern metal fabrication shop and completed dozens of high-end projects with multiple teams of craftsmen.
+* Graduate of App Academy's 16-week software engineering program, a course with an acceptance rate of 5% that teaches fundamentals in Javascript, Ruby, SQL, HTML5, and CSS. Gained in-depth experience with additional technologies such as React.js, Redux, MERN-Stack, AWS, and PostgreSQL to name a few! Completed the course with over 1000 hours of experience in paired programming, VCS tools, code review, and collaborative software development.
 
-* I am a creator at heart, and get a lot of fulfillment from working with others with that same passion.
+* Led a near-decade-long career in Blacksmithing, moving from a traditional apprenticeship to a modern metal fabrication shop and completed dozens of high-end projects with multiple teams of craftsmen.
+
+* I am a creator at heart and get a lot of fulfillment from working with others with that same passion.
 
 * Avid story writer and fan of Dungeons and Dragons!
 
