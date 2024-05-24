@@ -7,7 +7,7 @@
 
 * Graduate of App Academy's 16-week software engineering program, a course with an acceptance rate of 5% that teaches fundamentals in Javascript, Ruby, SQL, HTML5, and CSS. Gained in-depth experience with additional technologies such as React.js, Redux, MERN-Stack, AWS, and PostgreSQL to name a few! Completed the course with over 1000 hours of experience in paired programming, VCS tools, code review, and collaborative software development.
 
-* Led a near-decade-long career in Blacksmithing, moving from a traditional apprenticeship to a modern metal fabrication shop and completed dozens of high-end projects with multiple teams of craftsmen.
+* Led a near-decade-long career in blacksmithing, moving from a traditional apprenticeship to a modern metal fabrication shop, and completed dozens of high-end projects with multiple teams of craftsmen.
 
 * I am a creator at heart and get a lot of fulfillment from working with others with that same passion.
 
