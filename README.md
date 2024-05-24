@@ -3,7 +3,9 @@
 </div>
 <h1>About me!</h1>
 
-* Current Software Developer in a backend role at Regulatory Solutions Inc., a company that strives to produce accurate and defensible FCC reports with advanced software, terrain, and clutter data to address FCC challenges. 
+* Current Software Developer in a backend role at Regulatory Solutions Inc., a company that strives to produce accurate and defensible FCC reports with advanced software, terrain, and clutter data to address FCC challenges.
+
+* Addition role at DataAnnotation as a Software Engineer to assess the capabilities of AI chatbot models in processing coding prompts using Python and Javascript.  
 
 * Graduate of App Academy's 16-week software engineering program, a course with an acceptance rate of 5% that teaches fundamentals in Javascript, Ruby, SQL, HTML5, and CSS. Gained in-depth experience with additional technologies such as React.js, Redux, MERN-Stack, AWS, and PostgreSQL to name a few! Completed the course with over 1000 hours of experience in paired programming, VCS tools, code review, and collaborative software development.
 
