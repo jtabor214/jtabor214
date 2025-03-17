@@ -3,7 +3,7 @@
 </div>
 <h1>About me!</h1>
 
-* Current Software Developer in a backend role at Regulatory Solutions Inc., a company that strives to produce accurate and defensible FCC reports with advanced software, terrain, and clutter data to address FCC challenges.
+* Current Software Developer in a full-stack role at Regulatory Solutions Inc., a company that strives to produce accurate and defensible FCC reports with advanced software, terrain, and clutter data to address FCC challenges.
 
 * Additional role at DataAnnotation as a Software Engineer to assess the capabilities of AI chatbot models in processing coding prompts using Python and Javascript.  
 
