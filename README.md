@@ -41,7 +41,7 @@ ___
 
 ### View my portfolio:
 
-[Click here](https://jtabor214.github.io/portfolio/)
+[Click here](https://jacob-tabor.vercel.app/)
 
 ___
 
